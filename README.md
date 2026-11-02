@@ -95,11 +95,13 @@ Focuses on passenger stop preferences and journey characteristics, including:
 
 **Travel Overview**
 
-Travel Overview
+<img width="1121" height="832" alt="image" src="https://github.com/user-attachments/assets/59ef1bb3-079d-426e-9447-657f6b1979dd" />
+
 
 **Stops & Duration Analysis**
 
-Stops & Duration Analysis
+<img width="1117" height="832" alt="image" src="https://github.com/user-attachments/assets/0b5192f3-c9db-44da-870a-f3d5a208af8c" />
+
 
 ### Interactive Dashboard
 
